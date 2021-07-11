@@ -15,7 +15,7 @@ public class Main {
         String dtNascimento = sc.nextLine();
         System.out.print("CPF: ");
         String cpf = sc.nextLine();
-        System.out.print("Salario: ");
+        System.out.print("Salário: ");
         Double salario = sc.nextDouble();
         System.out.print("Quantidade de dependentes: ");
         Integer qtdDependentes = sc.nextInt();
